@@ -1,5 +1,5 @@
-# knockbell
-Turn a doorknocker into a doorbell
+# Knockbell
+Ever wished your door would ring a bell when knocked? Ever want to really confuse visitors and tradespeople? Then this is the project for you.
 
 
 # Components
@@ -11,6 +11,7 @@ Also requires a power supply of some kind, and a cheap piezo transducer of the s
 # Hardware setup
 
 * Bodge the piezo pickup onto the back of the door somehow. Contact adhesive is a good option. Hook up between D34 and GND on the ESP32.
+* Maybe solder things up if you really care. 2.54mm jumpers and some blue-tac also work if you're a lazy brute.
 * Profit?
 
 # Software setup
